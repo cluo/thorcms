@@ -9,6 +9,7 @@ built with multilingual support from the core.
 * [Project website](http://thorcms.com/)
 * [Demo server](http://demo.thorcms.com/)
 * [Roadmap](https://github.com/thorcms/platform/pull/3)
+* [Issues](https://github.com/thorcms/platform/issues)
 
 ## Requirements
 * Apache 2.2 in a UNIX server (not tested in other environments yet)
