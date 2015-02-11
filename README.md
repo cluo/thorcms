@@ -28,7 +28,7 @@ Install the project using composer:
 
 ## Getting started
 
-1. After setup, run the `php artisan thor:install` command (add `-n` for silent mode)
+1. After setup, run the `php artisan thor:install` command inside the project folder (add `-n` for silent mode)
 2. Go to the `/en/backend` URL and login with `developer` / `developer` or  `admin`/ `admin`
 
 You will also find a demonstration video in Youtube: https://www.youtube.com/watch?v=0TKMkN_8vKI
